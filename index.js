@@ -48,7 +48,7 @@ var questions = [
   },
   {
     question: "whats my favorite color? ",
-    answer: "Black",
+    answer: "Purple",
   },
   {
     question: "whats my favorite anime? ",
